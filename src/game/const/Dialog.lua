@@ -1,0 +1,35 @@
+--
+-- Author: Your Name
+-- Date: 2015-02-09 14:58:35
+--
+Dialog = {}
+
+Dialog.Embattle = "game.view.embattle.EmbattleDialog"
+Dialog.Diamond = "game.view.diamond.shopDialog"
+Dialog.Setting = "game.view.setting.SettingDialog"
+Dialog.power = "game.view.power.PowerDialog"
+Dialog.outOfMoves = "game.view.battle.OutOfMovesDialog"
+Dialog.giveUp = "game.view.battle.GiveUpDialog"
+Dialog.buyLevel = "game.view.pet.BuyLevelDialog"
+Dialog.drowth = "game.view.pet.DrowthDialog"
+Dialog.petInfo = "game.view.pet.PetInfoDialog"
+Dialog.buyLevel = "game.view.pet.BuyLevelDialog"
+Dialog.showPet = "game.view.key.ShowPetDialog"
+Dialog.alert = "game.view.comm.AlertDialog"
+Dialog.gift = "game.view.gift.GiftDialog"
+Dialog.fristGift = "game.view.gift.FristGiftDialog"
+Dialog.fristGiftStar = "game.view.gift.FristGiftDialogStar"
+Dialog.fristGiftTool = "game.view.gift.FristGiftDialogTool"
+Dialog.fristGiftTop = "game.view.gift.FristGiftDialogTop"
+Dialog.sign = "game.view.sign.SignDialog"
+Dialog.pingcoo = "game.view.pingcoo.PingCooDialog"
+Dialog.tollgate = "game.view.city.TollgateDialog"
+Dialog.star = "game.view.star.StarExDialog"
+Dialog.buyPet = "game.view.pet.BuyPetDialog"
+Dialog.tollgatestar = "game.view.city.TollgateStarDialog"
+Dialog.friend = "game.view.friend.FriendDialog"
+Dialog.friendadd = "game.view.friend.FriendAdd"
+Dialog.messageBox = "game.view.messagebox.messageBoxDialog"
+Dialog.playPack = "game.view.bag.playerPack"
+Dialog.shop = "game.view.diamond.shopDialog"
+Dialog.showPoint = "game.view.star.showPointDialog"
